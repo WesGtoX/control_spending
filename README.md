@@ -7,7 +7,7 @@
     <a href="https://app.netlify.com/sites/XXXXXXXXXX/deploys" alt="Netlify Status">
         <img src="https://api.netlify.com/api/v1/badges/XXXXX_ID_HASH_XXXXX/deploy-status" />
     </a>
-</p> -->
+</p>
 
 ----------------- -->
 
