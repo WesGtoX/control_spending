@@ -1,19 +1,8 @@
-<!-- <p align="center">
-   <a href="https://github.com/WesGtoX/project_name">
-     <img src="#" alt="" title="" width="500px">
-   </a>
-</p>
-<p align="center">
-    <a href="https://app.netlify.com/sites/XXXXXXXXXX/deploys" alt="Netlify Status">
-        <img src="https://api.netlify.com/api/v1/badges/XXXXX_ID_HASH_XXXXX/deploy-status" />
-    </a>
-</p>
-
------------------ -->
-
 # Control Spending
 
 Spending control project created in Django Framework.
+
+Made in the "[Django 2.0 - Aprendendo os conceitos fundamentais](https://www.udemy.com/course/django-20-aprendendo-os-conceitos-fundamentais/)" course by [Gregory Pacheco](https://www.udemy.com/user/gpzimpacheco/)
 
 Author: [Wesley Mendes](https://github.com/WesGtoX)
 
