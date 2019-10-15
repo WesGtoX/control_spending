@@ -6,6 +6,20 @@ Made in the "[Django 2.0 - Aprendendo os conceitos fundamentais](https://www.ude
 
 Author: [Wesley Mendes](https://github.com/WesGtoX)
 
+## Course Features
+
+> - General:
+>
+>   - Understand what the Django Framework is;
+>   - Prepare the development environment;
+>   - Understand what a request is;
+>   - Know the lifecycle of a request in Django;
+>   - Using models to persist data in the database;
+>   - Create my own views;
+>   - Route Settings;
+>   - Using the makemigrations and migrate commands;
+>   - Full CRUD.
+
 ## License
 
 [MIT](LICENSE)
